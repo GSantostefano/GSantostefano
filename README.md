@@ -48,6 +48,7 @@ Feel free to connect with me, and let's explore opportunities for collaboration 
 <a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
 </a>
+
 <a href="https://www.linkedin.com/in/gabriel-santostefano/" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
