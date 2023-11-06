@@ -1,13 +1,9 @@
 # About Me
 
-## Introduction
 Hello! 👋🏻 I'm Gabriel, and I have a background in information systems engineering and business administration.
 
 ## Professional Growth
 I'm passionate about personal and professional growth, with a strong focus on teamwork. In 2023, I made a significant decision to reinvent myself professionally by diving into an area I've always been enthusiastic about - programming.
-<h3 align="left">Languages and Tools:</h3>
-
-
 
 ## Web Development Skills
 As part of my journey in web development, I have honed my skills in various technologies, including:
