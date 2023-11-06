@@ -43,8 +43,6 @@ My background in business administration is an asset, enabling me to contribute 
 - Accounting processes
 
 Feel free to connect with me, and let's explore opportunities for collaboration and growth!
-
-## 📫 How to reach me: 
 </br>
 <a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
@@ -103,8 +101,6 @@ Mi formación en administración de empresas es un activo que me permite aportar
 - Procesos contables
 
 ¡No dudes en ponerte en contacto conmigo y exploremos oportunidades de colaboración y crecimiento!
-
-## 📫 Cómo contactarme: 
 </br>
 <a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
