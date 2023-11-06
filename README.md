@@ -47,23 +47,17 @@ My background in business administration is an asset, enabling me to contribute 
 - Accounting processes
 
 Feel free to connect with me, and let's explore opportunities for collaboration and growth!
-## 📊 Take a look in my stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carotobarj&theme=light" alt="carotobarj" /></p>
 
 ## 📫 How to reach me: 
 </br>
-<a href="mailto:carotobarj@gmail.com" target="_blank">
+<a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
 </a>
-<a href="https://www.linkedin.com/in/carolina-tobar-jaramillo/" target="_blank"> 
+<a href="https://www.linkedin.com/in/gabriel-santostefano/" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 </br>
 
-<p align="center">
-<img alt="Profile View" src="https://gpvc.arturio.dev/carotobarj" />
-</p>
 
 _________________________________________________________________________________________________________________________________________
 
@@ -114,3 +108,12 @@ Mi formación en administración de empresas es un activo que me permite aportar
 
 ¡No dudes en ponerte en contacto conmigo y exploremos oportunidades de colaboración y crecimiento!
 
+## 📫 Cómo contactarme: 
+</br>
+<a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
+</a>
+<a href="https://www.linkedin.com/in/gabriel-santostefano/" target="_blank"> 
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+</br>
