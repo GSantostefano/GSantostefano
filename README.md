@@ -43,6 +43,7 @@ My background in business administration is an asset, enabling me to contribute 
 - Accounting processes
 
 Feel free to connect with me, and let's explore opportunities for collaboration and growth!
+
 </br>
 <a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
