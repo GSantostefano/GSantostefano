@@ -42,7 +42,7 @@ My background in business administration is an asset, enabling me to contribute 
 - Project development
 - Accounting processes
 
-Feel free to connect with me, and let's explore opportunities for collaboration and growth!
+Feel free to connect with me, and let's explore opportunities for collaboration and growth!!
 
 </br>
 <a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
