@@ -1,5 +1,5 @@
 # Hello!!! 👋🏻 I'm Gabriel Santostefano
-
+Full Stack Developer & Game Dev Enthusiast
 ## Web Development Skills
 As part of my journey in web development, I have honed my skills in various technologies, including:
 - HTML
