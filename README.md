@@ -127,4 +127,110 @@ Herramienta avanzada de análisis de poker que utiliza **Computer Vision** y **O
 - 📝 Scripts de optimización
 - 🔄 CI/CD ready
 
-#### 📦 Arquitectura del Proyecto:
+
+#### 🎮 Funcionalidades Técnicas Avanzadas:
+
+**Computer Vision:**
+- Detección de cartas con OpenCV.js
+- Procesamiento de imagen en tiempo real
+- Filtros de reducción de ruido
+- Detección de contornos y ROI
+- Preprocesamiento adaptativo
+
+**OCR Optimizado:**
+- Web Workers para procesamiento no bloqueante
+- Caché de resultados para mejor rendimiento
+- Validación de cartas detectadas
+- Sistema de confianza de detección
+
+**Análisis de Poker:**
+- Motor de cálculo de equity
+- Algoritmos de detección de outs
+- Sistema de rangos por posición (UTG, MP, CO, BTN, SB, BB)
+- Análisis de textura del board
+- Detección automática de draws
+
+#### 📊 Características del Monitor de Estado:
+
+- 📍 Posición actual del jugador
+- 🎯 Situación de la mano (preflop, flop, turn, river)
+- 🃏 Cartas del héroe y del board
+- 📈 Outs y probabilidades en tiempo real
+- 💰 Pot size y cantidad a pagar
+- ✅ Recomendaciones de acción basadas en pot odds
+- 🎨 Indicadores visuales codificados por color
+- ⌨️ Atajos de teclado (º para nueva mano, Q para cambiar situación)
+
+#### 🔗 Enlaces:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/GSantostefano/poker-vite)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GSantostefano&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSantostefano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GSantostefano&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GSantostefano&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GSantostefano&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Proyectos Destacados
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GSantostefano&repo=poker-vite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/GSantostefano/poker-vite)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GSantostefano&repo=RoyalSaint&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/GSantostefano/RoyalSaint)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GSantostefano&repo=cursoBackPostgres&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/GSantostefano/cursoBackPostgres)
+
+</div>
+
+---
+
+## 🎯 Objetivos Actuales
+
+- 🚀 Desarrollar proyectos Full Stack escalables
+- 🎴 Perfeccionar mi asistente de poker con IA y ML
+- 📚 Dominar patrones de diseño y arquitecturas limpias
+- 🤖 Profundizar en Computer Vision y procesamiento de imágenes
+- 🤝 Contribuir a proyectos open source
+- 💡 Compartir conocimiento con la comunidad dev
+
+---
+
+## 📫 Conectemos
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsantostefano@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santostefano/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GSantostefano)
+  
+</div>
+
+<div align="center">
+  
+  ### 💬 "El código limpio no se escribe siguiendo reglas. Lo escribes con esfuerzo y dedicación" - Robert C. Martin
+  
+  ---
+  
+  ⭐️ From [Gabriel Santostefano](https://github.com/GSantostefano) with 💙
+  
+</div>
