@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario-github&color=2e9ef7&style=for-the-badge&label=VISITAS+AL+PERFIL)
+  ![Profile Views](https://komarev.com/ghpvc/?username=GSantostefano&color=2e9ef7&style=for-the-badge&label=VISITAS+AL+PERFIL)
   
 </div>
 
@@ -17,7 +17,7 @@
 💻 **Full Stack Developer** apasionado por crear soluciones innovadoras  
 ♠️ **Poker Enthusiast** - Aplicando lógica y estrategia tanto en el código como en las cartas  
 🌱 Actualmente profundizando en **arquitecturas escalables** y **clean code**  
-💡 Me encanta resolver y buscar soluciones a problemas complejos
+💡 Me encanta resolver y buscar soluciones a problemas complejos y aprender nuevas tecnologías
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### 🗄️ Databases
 
-<p align="left">
+<p align="left">  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
@@ -67,15 +67,15 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GSantostefano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSantostefano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GSantostefano&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario-github&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GSantostefano&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -83,7 +83,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario-github&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GSantostefano&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -92,8 +92,8 @@
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=nombre-proyecto-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/tu-usuario-github/nombre-proyecto-1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=nombre-proyecto-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/tu-usuario-github/nombre-proyecto-2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GSantostefano&repo=RoyalSaint&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/GSantostefano/RoyalSaint)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GSantostefano&repo=cursoBackPostgres&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/GSantostefano/cursoBackPostgres)
 
 </div>
 
@@ -114,7 +114,7 @@
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsantostefano@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santostefano/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GSantostefano)
   
 </div>
 
