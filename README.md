@@ -30,16 +30,6 @@ As part of my journey in web development, I have honed my skills in various tech
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0edaf86bc3a090e256784b0b76593834c3f8def99adfc6adbb8162d4aae03d0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5068617365722d3141314131413f7374796c653d666f722d7468652d6261646765266c6f676f3d706861736572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0edaf86bc3a090e256784b0b76593834c3f8def99adfc6adbb8162d4aae03d0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5068617365722d3141314131413f7374796c653d666f722d7468652d6261646765266c6f676f3d706861736572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Phaser-1A1A1A?style=for-the-badge&amp;logo=phaser&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<p align="center" dir="auto">
-## Passion for Web Application Development
-I'm truly passionate about web application development, with a keen focus on creating innovative and scalable solutions to tackle real-world challenges. I have a problem-solving mindset and a strong work ethic to drive projects forward.
-
-## Business Administration Experience
-My background in business administration is an asset, enabling me to contribute a comprehensive understanding of production processes and a range of experiences, including:
-- Customer service (both internal and external)
-- Business creation
-- Project development
-- Accounting processes
 
 Feel free to connect with me, and let's explore opportunities for collaboration and growth!!
 
