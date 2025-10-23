@@ -1,4 +1,5 @@
 # Hello!!! 👋🏻 I'm Gabriel Santostefano
+## Estudiante de la Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional.
 Full Stack Developer & Poker Player Enthusiast
 ## Web Development Skills
 As part of my journey in web development, I have honed my skills in various technologies, including:
