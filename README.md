@@ -1,48 +1,129 @@
-# Hello!!! 👋🏻 I'm Gabriel Santostefano
-## Estudiante de la Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional.
-Full Stack Developer & Poker Player Enthusiast
-## Web Development Skills
-As part of my journey in web development, I have honed my skills in various technologies, including:
-- HTML
-- CSS
-- JavaScript
-- Git
-- NodeJS
-- Express
-- React
-- Redux
-- SQL
-- Sequelize
-  
-<p align="left">  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gabriel+Santostefano;Full+Stack+Developer;Poker+Player+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+</div>
 
+<div align="center">
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/001d4637c08910acf414f12a1682879a1f99867f6f9a3550f0541e7d03dd34a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8288db858b02700d4d4d33894264f1c897566782c26fb013450c2539288c4d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a8288db858b02700d4d4d33894264f1c897566782c26fb013450c2539288c4d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3467eb8e0dc6bdaa8fa6e979185d371ab39c105ec7bd6a01048806b74378d24c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img src="https://camo.githubusercontent.com/3467eb8e0dc6bdaa8fa6e979185d371ab39c105ec7bd6a01048806b74378d24c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d13b13f612e04c7f0acbac86017eccf8b541fe32d9e3aabe51f036319f5f1946/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d13b13f612e04c7f0acbac86017eccf8b541fe32d9e3aabe51f036319f5f1946/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9e942347b796f988a0ed3f3335002efea705a89c65d63a830481638a6b9d00c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6573744a532d4530323334453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9e942347b796f988a0ed3f3335002efea705a89c65d63a830481638a6b9d00c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6573744a532d4530323334453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5efede1ede485921a068d065e72eae3446b1d4f9c8aba580ab290b060e1d436a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5efede1ede485921a068d065e72eae3446b1d4f9c8aba580ab290b060e1d436a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4aed80090cf6326364d8fbc173e9d307293da717b071823b37d3514afcbcd98e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4aed80090cf6326364d8fbc173e9d307293da717b071823b37d3514afcbcd98e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9bf0615ea2c562b1478c8c5e28ede41a5a4655ffca9a279b0fb2f9a28eba4202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9bf0615ea2c562b1478c8c5e28ede41a5a4655ffca9a279b0fb2f9a28eba4202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c25f7113bb8408fb3888ee67397c9e70721b54893b6df9ca7d03c7b3b3c684f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430344435393f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/c25f7113bb8408fb3888ee67397c9e70721b54893b6df9ca7d03c7b3b3c684f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430344435393f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8a6912ffd6e3bba0d696c8803e3ff21a37f24cbca4a3433e23af910250e974ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/8a6912ffd6e3bba0d696c8803e3ff21a37f24cbca4a3433e23af910250e974ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0edaf86bc3a090e256784b0b76593834c3f8def99adfc6adbb8162d4aae03d0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5068617365722d3141314131413f7374796c653d666f722d7468652d6261646765266c6f676f3d706861736572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0edaf86bc3a090e256784b0b76593834c3f8def99adfc6adbb8162d4aae03d0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5068617365722d3141314131413f7374796c653d666f722d7468652d6261646765266c6f676f3d706861736572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Phaser-1A1A1A?style=for-the-badge&amp;logo=phaser&amp;logoColor=white" style="max-width: 100%;"></a>
+  ![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario-github&color=2e9ef7&style=for-the-badge&label=VISITAS+AL+PERFIL)
+  
+</div>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+🎓 **Estudiante** de la Tecnicatura Universitaria en Programación  
+🏛️ **Universidad Tecnológica Nacional**  
+💻 **Full Stack Developer** apasionado por crear soluciones innovadoras  
+♠️ **Poker Enthusiast** - Aplicando lógica y estrategia tanto en el código como en las cartas  
+🌱 Actualmente profundizando en **arquitecturas escalables** y **clean code**  
+💡 Me encanta resolver problemas complejos y aprender nuevas tecnologías
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Phaser-1A1A1A?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser"/>
 </p>
 
+### ⚙️ Backend
 
-Feel free to connect with me, and let's explore opportunities for collaboration and growth!!
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+</p>
 
-</br>
-<a href="mailto:gabrielsantostefano@gmail.com" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> 
-</a>
+### 🗄️ Databases
 
-<a href="https://www.linkedin.com/in/gabriel-santostefano/" target="_blank"> 
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-</br>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+</p>
 
+### 🔧 Tools & Others
 
-_________________________________________________________________________________________________________________________________________
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario-github&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=C9D1D9" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario-github&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Proyectos Destacados
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=nombre-proyecto-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/tu-usuario-github/nombre-proyecto-1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=nombre-proyecto-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9)](https://github.com/tu-usuario-github/nombre-proyecto-2)
+
+</div>
+
+---
+
+## 🎯 Objetivos Actuales
+
+- 🚀 Desarrollar proyectos Full Stack escalables
+- 📚 Dominar patrones de diseño y arquitecturas limpias
+- 🤝 Contribuir a proyectos open source
+- 💡 Compartir conocimiento con la comunidad dev
+
+---
+
+## 📫 Conectemos
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsantostefano@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santostefano/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
+  
+</div>
+
+<div align="center">
+  
+  ### 💬 "El código limpio no se escribe siguiendo reglas. Lo escribes con esfuerzo y dedicación" - Robert C. Martin
+  
+  ---
+  
+  ⭐️ From [Gabriel Santostefano](https://github.com/tu-usuario-github) with 💙
+  
+</div>
