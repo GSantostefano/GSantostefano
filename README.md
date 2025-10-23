@@ -17,7 +17,7 @@
 💻 **Full Stack Developer** apasionado por crear soluciones innovadoras  
 ♠️ **Poker Enthusiast** - Aplicando lógica y estrategia tanto en el código como en las cartas  
 🌱 Actualmente profundizando en **arquitecturas escalables** y **clean code**  
-💡 Me encanta resolver problemas complejos y aprender nuevas tecnologías
+💡 Me encanta resolver y buscar soluciones a problemas complejos
 
 ---
 
