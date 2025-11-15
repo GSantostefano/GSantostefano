@@ -85,7 +85,7 @@
 
 ### 🎴 Herramienta de Análisis de Poker
 
-Aplicación Full Stack que combina **Computer Vision** y análisis estratégico para asistencia en tiempo real durante partidas de poker.
+Aplicación Full Stack que combina **Computer Vision** y análisis estratégico de poker.
 
 #### 🛠️ Tecnologías Principales:
 
